@@ -14,14 +14,9 @@ The video shows the generated 3D model rotating to display all angles of the rec
 
 ### 3D Model Screenshots
 
-**Front View**
-<img src="screenshots/1.png" alt="3D Model - Front View" width="400"/>
-
-**Side View**
-<img src="screenshots/2.png" alt="3D Model - Side View" width="400"/>
-
-**Back View**
-<img src="screenshots/3.png" alt="3D Model - Back View" width="400"/>
+| Front View | Side View | Back View |
+|---|---|---|
+| ![Front](screenshots/1.png) | ![Side](screenshots/2.png) | ![Back](screenshots/3.png) |
 
 ## Model Used
 - **Model:** [stabilityai/TripoSR](https://huggingface.co/stabilityai/TripoSR)
