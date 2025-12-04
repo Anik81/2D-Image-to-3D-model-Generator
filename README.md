@@ -15,9 +15,9 @@ The video shows the generated 3D model rotating to display all angles of the rec
 ### 3D Model Screenshots
 
 <p float="left">
-  <img src="screenshots/1.png" width="32%" alt="Front View" />
-  <img src="screenshots/2.png" width="32%" alt="Side View" />
-  <img src="screenshots/3.png" width="32%" alt="Back View" />
+  <img src="Screenshots/1.png" width="32%" alt="Front View" />
+  <img src="Screenshots/2.png" width="32%" alt="Side View" />
+  <img src="Screenshots/3.png" width="32%" alt="Back View" />
 </p>
 
 ## Model Used
