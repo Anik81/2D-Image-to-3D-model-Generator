@@ -8,10 +8,20 @@ Generate 3D models from 2D images using **TripoSR** from Hugging Face.
 <img src="input.jpg" alt="Input Image" width="300"/>
 
 ### 3D Model Viewer
-<video width="400" controls>
-  <source src="3D-viewer.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Download and view the 3D model rotation video: [**3D-viewer.mp4**](3D-viewer.mp4)
+
+The video shows the generated 3D model rotating to display all angles of the reconstruction.
+
+### 3D Model Screenshots
+
+**Front View**
+<img src="screenshots/1.png" alt="3D Model - Front View" width="400"/>
+
+**Side View**
+<img src="screenshots/2.png" alt="3D Model - Side View" width="400"/>
+
+**Back View**
+<img src="screenshots/3.png" alt="3D Model - Back View" width="400"/>
 
 ## Model Used
 - **Model:** [stabilityai/TripoSR](https://huggingface.co/stabilityai/TripoSR)
