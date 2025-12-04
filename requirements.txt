@@ -1,0 +1,23 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Hugging Face
+transformers>=4.36.0
+huggingface_hub>=0.20.0
+accelerate>=0.25.0
+
+# 3D processing
+trimesh>=4.0.0
+pyglet<2
+
+# Image processing
+pillow>=9.0.0
+rembg>=2.0.50
+onnxruntime>=1.16.0  # Use onnxruntime-gpu if you have NVIDIA GPU
+
+# Other
+einops>=0.6.0
+omegaconf>=2.3.0
+numpy>=1.24.0
+tqdm
